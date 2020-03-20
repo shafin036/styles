@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:orange;">SHAFIN</h1>
+<p>I am normal</p>
+<p style="color:crimson;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:577px;">I am big</p>
+</body>
+</html>

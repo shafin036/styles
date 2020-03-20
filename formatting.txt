@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Arafat <small> Shafin</small> BRAC</h2>
+<h2> Shafin <mark> Marked </mark> Arafat</h2>
+<p>The del element represents deleted (removed) text.</p>
+<p>My favorite color is <del>blue</del> green.</p>
+<p>My favorite <ins>color</ins> is orange.</p>
+<p>This is <sub>why</sub> red.</p>
+<p>This is <sup>why</sup> red.</p>
+</body>
+</html>
